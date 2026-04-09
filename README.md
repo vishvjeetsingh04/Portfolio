@@ -32,4 +32,4 @@ This portfolio showcases my skills, projects, and contact information in a clean
 
 ---
 
-## 📂 Project Structure
+
